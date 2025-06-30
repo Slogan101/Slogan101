@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Newson 👋</h1>
 
 <p align="center">
-  <strong>Backend Developer | Scalable Systems Enthusiast | Telegram-Bot Developer</strong>
+  <strong>Backend Engineer | Scalable Systems Enthusiast | Telegram-Bot Developer</strong>
 </p>
 
 <p align="center">
@@ -9,7 +9,6 @@
   <a href="mailto:newson190@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail" /></a>
   <a href="https://github.com/Slogan101"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" /></a>
 </p>
----
 
 ## 👨‍💻 About Me
 
