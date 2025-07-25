@@ -14,7 +14,7 @@
 
 I'm a backend developer passionate about building **robust, secure, and scalable systems**. My journey started with a love for the logic and invisible architecture behind modern applications.
 
-I’ve been sharpening my skills in **Python**, **FastAPI**, **PostgreSQL**, **MongoDB**, and **Docker**—and applying them in real-world projects.
+I’ve been sharpening my skills in **Python**, **FastAPI**, **Django**, **PostgreSQL**, and **MongoDB**, and applying them in real-world projects.
 
 🌍 My mission is to solve real-world problems with clean backend architecture and powerful APIs.
 
@@ -25,12 +25,13 @@ I’ve been sharpening my skills in **Python**, **FastAPI**, **PostgreSQL**, **M
 <p>
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
   <img src="https://img.shields.io/badge/FastAPI-Speed%20and%20Flexibility-0ba360?logo=fastapi" />
+  <img src="https://img.shields.io/badge/Django-Reliable%20and%20Robust-092E20?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-Microframework-000000?logo=flask" />
   <img src="https://img.shields.io/badge/PostgreSQL-Relational%20DB-336791?logo=postgresql" />
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql" />
   <img src="https://img.shields.io/badge/MongoDB-NoSQL-4ea94b?logo=mongodb" />
   <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git" />
-  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker" />
+<!--   <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker" /> -->
   <img src="https://img.shields.io/badge/Linux-CLI-000000?logo=linux" />
 </p>
 
@@ -38,7 +39,7 @@ I’ve been sharpening my skills in **Python**, **FastAPI**, **PostgreSQL**, **M
 
 ## 🛠️ Notable Projects
 
-### 🔗 [Luvora Dating Bot](https://github.com/(private)/luvora-telegram-dating-bot)
+### 🔗 [Luvora Dating Bot](https://slogan.pythonanywhere.com/)
 A Telegram-based dating bot powered by Python and PostgreSQL that connects users through smart matching.
 
 > 💡 Features: Inline buttons, user profiles, preference-based matching, database tracking.
@@ -49,13 +50,6 @@ A Telegram-based dating bot powered by Python and PostgreSQL that connects users
 An API-based platform that enables patients to book doctor appointments.
 
 > 🚀 Tech: FastAPI, PostgreSQL
-
----
-
-### 🔗 [URL Shortener API](https://github.com//url-shortener-api)
-A backend-only application to generate and manage shortened URLs, with expiration and analytics.
-
-> 🧠 Learned: JWT Auth, Redis integration, and test-driven development with Pytest.
 
 ---
 
